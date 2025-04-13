@@ -44,5 +44,5 @@ Filtragem inteligente por categorias, faixas de preço, avaliações, etc.
 
 Indexação de relatórios e arquivos com análise textual
 
-Permite buscar relatórios com base em conteúdo, e não só título/data
+Permite buscar relatórios com base em conteúdo, e não só título/data.
 
